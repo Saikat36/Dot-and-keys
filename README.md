@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, Everyone</h1>
 
-# Dot & Key -clone  <a href="[[https://magnificent-sherbet-ca5637.netlify.app/index.html](https://64a092c5967a466a1d58ebd3--effervescent-parfait-9d4a20.netlify.app/index.html)](https://64a092c5967a466a1d58ebd3--effervescent-parfait-9d4a20.netlify.app/index.html)" > Deployed Link </a>
+# Dot & Key -clone  <a href="https://magnificent-sherbet-ca5637.netlify.app/index.html" > Deployed Link </a>
+
 
 Cloned a very well known Dot&Key.com website for purchasing skin related product.
 #### Tech Stack : 
