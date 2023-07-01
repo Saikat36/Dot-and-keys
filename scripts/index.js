@@ -204,37 +204,37 @@ let data = [
        add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/WATERTONER_2.png?v=1658907972",
+        image: "https://www.dotandkey.com/cdn/shop/files/watermeloneyepatch_360x.jpg?v=1687931276",
         name:"Cica + Niacinamide Face Sunscreen SPF 50 PA+++|",
         price: "375.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_16_1a9d9d52-bb4b-44b4-a0f3-e83b0696c320.jpg?v=1658907159",
+        image: "https://www.dotandkey.com/cdn/shop/files/vitcserum_360x.jpg?v=1687931045",
         name:"20% Vitamin C Serum with Blood Orange & Ferulic Acid | For",
         price: "523.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/20VITC_2.png?v=1658907052",
+        image: "https://www.dotandkey.com/cdn/shop/files/barfc_360x.jpg?v=1687930096",
         name: "AHA BHA & Pineapple Foaming Face Wash | 5% Lactic, Glycolic &",
         price: "849.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image:"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-4_15.webp?v=1658907103",
+        image:"https://www.dotandkey.com/cdn/shop/files/cicang_360x.jpg?v=1687930120",
         name:"Vitamin C + E Moisturizer With Sicilian Blood Orange & ",
         price: "231.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image:"https://cdn.shopify.com/s/files/1/0361/8553/8692/files/CICA_SUNSCREEN.jpg?v=1658564108",
+        image:"https://www.dotandkey.com/cdn/shop/files/pomday_360x.jpg?v=1687930152",
         name: "CICA Niacinamide Night Gel  With Green Tea, Tea Tree Oil &",
         price: "520.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PROBIOTICS_1_1_1_1_1_e0123849-0a5d-4c37-9ef6-96ad3836c842.jpg?v=1660732568",
+        image: "https://www.dotandkey.com/cdn/shop/files/haserum_360x.jpg?v=1687931127",
         name: "Watermelon Super Glow Glycolic Toner With Lactic Acid",
         price: "330.00",
         add_to_cart:"ADD TO CART"
@@ -347,43 +347,43 @@ if(number < 0){
 
 let data4 = [
     {
-       image:"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LIPMASKW_APPLI_1.png?v=1658907666",
+       image:"https://www.dotandkey.com/cdn/shop/products/green-clay_1_360x.webp?v=1687782449",
        name:"Vitamin C Super Bright Foaming Face Wash | Vitamin C For",
        price: "240.00",
        add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PROBIOTICS_1_1_1_1_1_e0123849-0a5d-4c37-9ef6-96ad3836c842.jpg?v=1660732568",
+        image: "https://www.dotandkey.com/cdn/shop/files/niacinamide_23729e33-ca09-4670-af67-d2aba2b1862e_360x.jpg?v=1687931089",
         name:"Cica + Niacinamide Face Sunscreen SPF 50 PA+++|",
         price: "746.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1-Green-Clay-Mask.png?v=1658907624",
+        image: "https://www.dotandkey.com/cdn/shop/files/lipplumpingmasklingdon_360x.jpg?v=1687930640",
         name:"20% Vitamin C Serum with Blood Orange & Ferulic Acid",
         price: "963.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/NIACINAMIDE_1.png?v=1658907926",
+        image: "https://www.dotandkey.com/cdn/shop/products/1-finall-1_1_360x.webp?v=1687782704",
         name: "AHA BHA & Pineapple Foaming Face Wash | 5% Lactic",
         price: "876.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image:"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/nightcream_2_2e3e7434-5b2f-4cf6-aef9-ade90482eea2.png?v=1658906872",
+        image:"https://www.dotandkey.com/cdn/shop/files/cicasalicylicserum_360x.jpg?v=1687931110",
         name:"Vitamin C + E Moisturizer With Sicilian Blood Orange",
         price: "134.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image:"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/20VITC_2.png?v=1658907052",
+        image:"https://www.dotandkey.com/cdn/shop/files/cherrylipbalm_360x.jpg?v=1687931369",
         name: "CICA Niacinamide Night Gel  With Green Tea, Tea Tree",
         price: "836.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Untitled-1_25_1.jpg?v=1660731137",
+        image: "https://www.dotandkey.com/cdn/shop/files/moringashampoo_360x.jpg?v=1687931560",
         name: "Watermelon Super Glow Glycolic Toner With Lactic Acid",
         price: "231.00",
         add_to_cart:"ADD TO CART"
@@ -489,28 +489,28 @@ if(number4 < 0){
 
 let data8 = [
     {
-       image:"https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Untitled-1_25_1.jpg?v=1660731137",
+       image:"https://www.dotandkey.com/cdn/shop/files/Artboard11_69483608-b21b-46df-ae8d-e84735e2334e_360x.jpg?v=1687203915",
        name:"Vitamin C + E Moisturizer With Sicilian Blood Orange ",
        del:"595.00",
        price: "565.00",
        add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/nightcream_2_2e3e7434-5b2f-4cf6-aef9-ade90482eea2.png?v=1658906872",
+        image: "https://www.dotandkey.com/cdn/shop/files/pineapplefw_360x.jpg?v=1687930731",
         name:"Retinol  & Ceramide Age Defense Night Cream For Face",
         del:"975.00",
         price: "652.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Untitled-1_3_8124891e-d162-491c-b41e-43ea643926f1.png?v=1658906811",
+        image: "https://www.dotandkey.com/cdn/shop/files/greenteayellowmask_360x.jpg?v=1687931420",
         name:"CICA Niacinamide Night Gel  With Green Tea, Tea Tree Oil",
         del:"965.00",
         price: "765.00",
         add_to_cart:"ADD TO CART"
     },
     {
-        image: "https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PROBIOTICS_1_1_1_1_1_e0123849-0a5d-4c37-9ef6-96ad3836c842.jpg?v=1660732568",
+        image: "https://www.dotandkey.com/cdn/shop/products/11-Cica-Acne-Relief-Gel-Mask_360x.jpg?v=1687783037",
         name: "Vitamin C + E Moisturizer With Sicilian Blood Orange",
         del:"795.00",
         price: "536.00",
