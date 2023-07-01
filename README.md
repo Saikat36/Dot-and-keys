@@ -43,14 +43,11 @@ Cloned a very well known Dot&Key.com website for purchasing skin related product
 
 ## Team Member
 -  Rahul Yadav
+-  Saikat Patra
 -  Karri Nagadurgaamrutha
 -  Gaurav Sudhanshu
 -  Adarsh Jondhale
--  Saikat Patra
 
-## To Clone this Project
-
-https://github.com/rahulyadav826870/roasted-brake-1134
 
 <!-- 
 
