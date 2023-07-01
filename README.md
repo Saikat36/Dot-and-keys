@@ -1,4 +1,4 @@
-![image](https://github.com/Saikat36/roasted_brake-1134/assets/105963615/19d35be4-a2e2-4dff-a244-7d327803a129)<h1 align="center">Hi 👋, Everyone</h1>
+<h1 align="center">Hi 👋, Everyone</h1>
 
 # Dot & Key -clone  <a href="https://magnificent-sherbet-ca5637.netlify.app/index.html" > Deployed Link </a>
 
@@ -52,6 +52,9 @@ Cloned a very well known Dot&Key.com website for purchasing skin related product
 https://github.com/rahulyadav826870/roasted-brake-1134
 
 <!-- 
+
+![image](https://github.com/Saikat36/roasted_brake-1134/assets/105963615/19d35be4-a2e2-4dff-a244-7d327803a129)
+
 ![image](https://github.com/Saikat36/roasted_brake-1134/assets/105963615/3c6af025-7d49-4f39-b0f1-69ebee82a7f4)
 
 ![image](https://github.com/Saikat36/roasted_brake-1134/assets/105963615/c6fb2296-e674-4814-a8e2-593111b58011)
